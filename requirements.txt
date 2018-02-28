@@ -1,0 +1,5 @@
+pandas
+tqdm
+matplotlib
+tweepy
+beautifulsoup4
